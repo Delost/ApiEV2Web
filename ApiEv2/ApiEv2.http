@@ -1,0 +1,6 @@
+@ApiEv2_HostAddress = http://localhost:5221
+
+GET {{ApiEv2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
